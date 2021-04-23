@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [3 Column Preview](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/mobile-first-using-tailwind-css-DS7PIt1Z5)
-- Live Site URL: [Add live site URL here](https://williamssam.github.io/3-column-preview)
+- Live Site URL: [3 Column Preview](https://williamssam.github.io/3-column-preview)
 
 ## My process
 
